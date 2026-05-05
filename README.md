@@ -1,5 +1,7 @@
 # Wholesale PSN Gift Card Distribution: A Practical Guide for Resellers and API-Driven Stores
 
+> A practical reference for B2B resellers, gaming stores, and developers working with wholesale PlayStation Network gift card inventory, regional pricing, and API-based fulfillment.
+
 Digital gift card distribution has become an important part of the gaming commerce ecosystem. For B2B resellers, online gaming stores, marketplace operators, and developers building automated storefronts, PlayStation Network (PSN) gift cards require more than simple retail purchasing. A sustainable operation depends on regional inventory planning, delivery speed, pricing structure, code validity, and reliable order automation.
 
 This guide explains how wholesale PSN gift card distribution works, what resellers should evaluate when choosing suppliers, and how API-based procurement can reduce manual fulfillment work at scale.

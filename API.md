@@ -1,3 +1,11 @@
+# Article 5 — GitHub Pages
+
+Title: PSN Wholesale API Integration Guide: REST Endpoints, Webhooks & Data Formats
+Platform: GitHub Pages
+Target URL: https://psnb2b.com/
+
+---
+
 # PSN Wholesale API Integration Guide: REST Endpoints, Webhooks & Data Formats
 
 Digital gift card procurement has moved beyond manual purchasing. For resellers and digital storefronts processing more than a few hundred orders per month, API-based procurement is not optional — it is infrastructure. This guide covers the architectural patterns, endpoint structures, webhook designs, and data formats that define a well-built integration between a reseller platform and a wholesale PSN card supplier.
